@@ -1,1 +1,8 @@
 boto3
+pypdf
+streamlit
+langchain
+python-dotenv
+langchain-community
+langchain_google_genai
+faiss-cpu
