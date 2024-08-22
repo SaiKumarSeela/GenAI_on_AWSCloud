@@ -4,6 +4,9 @@ __pycache__/
 *$py.class
 genaiaws/
 python/
+awsgenai/
+notes.txt
+practise.py
 # C extensions
 *.so
 
